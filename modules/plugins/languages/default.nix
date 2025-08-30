@@ -17,6 +17,7 @@ in {
     ./go.nix
     ./hcl.nix
     ./helm.nix
+    ./kdl.nix
     ./kotlin.nix
     ./html.nix
     ./haskell.nix

@@ -531,3 +531,10 @@
 [derethil](https://github.com/derethil):
 
 - Fix `vim.lazy.plugins.<name>.enabled` Lua evaluation.
+
+[advilm](https://github.com/advilm):
+
+[kdl-lsp]: https://github.com/kdl-org/kdl-rs
+[kdlfmt]: https://github.com/hougesen/kdlfmt
+
+- Added KDL support using [kdl-lsp] and [kdlfmt]

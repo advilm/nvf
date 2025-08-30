@@ -18,6 +18,7 @@ in {
 
         pluginRC.lspconfig = entryAfter ["lsp-setup"] ''
           local lspconfig = require('lspconfig')
+          local configs = require('lspconfig.configs')
 
           ${
             optionalString config.vim.ui.borders.enable ''
